@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KillerPQY
 - 👀 I’m interested in computer games.
-- 🌱 I’m currently learning C++ and Unreal Engine.
+- 🌱 I’m currently learning C++ and Java.
 - 💞️ I’m looking to collaborate on someone who also likes computer games.
 - 📫 How to reach me: 120090175@link.cuhk.edu.cn
                       2498433067@qq.com
