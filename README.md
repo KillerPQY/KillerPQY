@@ -156,6 +156,15 @@ const KillerPQY = {
 ## ⏱️ 本周编程时长
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 13 November 2025 - To: 20 November 2025
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <br>
