@@ -119,39 +119,6 @@ const KillerPQY = {
 
 <br>
 
-<!-- 成就徽章 -->
-## 🏆 GitHub 成就
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KillerPQY&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" />
-</div>
-
-<br>
-
-<!-- 精选项目 -->
-<!-- 
-## 🚀 精选项目
-
-<div align="center">
-  <a href="https://github.com/KillerPQY/awesome-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KillerPQY&repo=awesome-project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-  </a>
-  <a href="https://github.com/KillerPQY/awesome-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KillerPQY&repo=awesome-project-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/KillerPQY/awesome-project-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KillerPQY&repo=awesome-project-3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-  </a>
-  <a href="https://github.com/KillerPQY/awesome-project-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KillerPQY&repo=awesome-project-4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-  </a>
-</div>
-
-<br> -->
-
 <!-- 编程活动 -->
 ## ⏱️ 本周编程时长
 
