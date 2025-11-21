@@ -21,9 +21,9 @@
 <!-- 关于我 -->
 ## 🧑‍💻 关于我
 
-```javascript
+<!-- ```javascript
 const KillerPQY = {
-    pronouns: "He" | "Him",
+    pronouns: "He/Him",
     location: "🇨🇳 China",
     code: ["C++", "Lua", "Python", "C#"],
     askMeAbout: ["游戏服务器开发", "后端架构", "技术分享"],
@@ -40,7 +40,7 @@ const KillerPQY = {
     currentFocus: "探索游戏服务器开发与AI应用",
     // funFact: "代码改变世界，创意点亮未来 🌟"
 };
-```
+``` -->
 
 <br>
 
@@ -123,7 +123,7 @@ const KillerPQY = {
 ## 🏆 GitHub 成就
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KillerPQY&theme=flat&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KillerPQY&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" />
 </div>
 
 <br>
@@ -225,7 +225,7 @@ No activity tracked
 
 <!-- 页脚波浪 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </div>
 
 <!-- 页脚信息 -->
