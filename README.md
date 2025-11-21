@@ -6,7 +6,7 @@
 <!-- 打字机效果 -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=3DAEF7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=游戏服务器开发工程师+💻;开源爱好者+%26+技术探索者+🚀;热爱编程+%7C+持续学习+%7C+创新思维+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=3DAEF7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=%E6%B8%B8%E6%88%8F%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88+%F0%9F%92%BB;%E5%BC%80%E6%BA%90%E7%88%B1%E5%A5%BD%E8%80%85+%26+%E6%8A%80%E6%9C%AF%E6%8E%A2%E7%B4%A2%E8%80%85+%F0%9F%9A%80;%E7%83%AD%E7%88%B1%E7%BC%96%E7%A8%8B+%7C+%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0+%7C+%E5%88%9B%E6%96%B0%E6%80%9D%E7%BB%B4+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
@@ -123,7 +123,7 @@ const KillerPQY = {
 ## 🏆 GitHub 成就
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KillerPQY&theme=default&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KillerPQY&theme=flat&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" />
 </div>
 
 <br>
@@ -175,10 +175,10 @@ const KillerPQY = {
   <a href="https://github.com/KillerPQY">
     <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:2498433067@qq.com">
     <img src="https://img.shields.io/badge/Email-4A90E2?style=plastic&logo=gmail&logoColor=white" />
   </a>
-  <a href="http://wpa.qq.com/msgrd?v=3&uin=你的QQ号&site=qq&menu=yes">
+  <a href="http://wpa.qq.com/msgrd?v=3&uin=2498433067&site=qq&menu=yes">
     <img src="https://img.shields.io/badge/QQ-EB1923?style=plastic&logo=QQ&logoColor=white" />
   </a>
   <a href="weixin://">
