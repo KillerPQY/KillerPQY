@@ -154,12 +154,12 @@ No activity tracked
   <a href="mailto:2498433067@qq.com">
     <img src="https://img.shields.io/badge/Email-4A90E2?style=plastic&logo=gmail&logoColor=white" />
   </a>
-  <a href="tencent://message/?uin=2498433067&Site=qq&Menu=yes">
+  <!-- <a href="tencent://message/?uin=2498433067&Site=qq&Menu=yes">
     <img src="https://img.shields.io/badge/QQ-EB1923?style=plastic&logo=QQ&logoColor=white" />
   </a>
   <a href="weixin://contacts/profile/wxid_cvads8kq0b9x22">
     <img src="https://img.shields.io/badge/WeChat-07C160?style=plastic&logo=wechat&logoColor=white" />
-  </a>
+  </a> -->
 </div>
 
 <br>
